@@ -1,0 +1,8 @@
+.mobileHero {
+	background-image: url("../../assets/img/ice_cream.png");
+	background-color: #97abfe;
+	background-repeat: no-repeat;
+	background-size: "cover";
+	/* background-position-y: ; */
+	max-height: fit-content;
+}
